@@ -12,4 +12,4 @@ python-jose[cryptography]==3.4.0
 passlib[argon2]==1.7.4
 structlog==25.3.0
 python-multipart==0.0.20
-
+psycopg2-binary==2.9.9
