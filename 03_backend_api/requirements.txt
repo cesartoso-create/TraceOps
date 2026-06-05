@@ -1,0 +1,15 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+pydantic-settings==2.9.1
+sqlalchemy==2.0.41
+psycopg[binary]==3.2.9
+geoalchemy2==0.17.1
+alembic==1.15.2
+redis==5.2.1
+celery==5.5.2
+boto3==1.38.23
+python-jose[cryptography]==3.4.0
+passlib[argon2]==1.7.4
+structlog==25.3.0
+python-multipart==0.0.20
+
